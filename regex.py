@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Defines several regex expressions
 
 import re
 
