@@ -1,6 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
-
+# Evaluates strings representing mathematical expressions
 
 def binop(a_string):
     some_string = a_string.strip()
