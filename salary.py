@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Parsing of information from Virginia state salaries data
 
 import re
 import urllib.request
