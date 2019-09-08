@@ -1,3 +1,8 @@
+# Final project in python computer science class
+# Creates a game
+# Code written in conjunction with Sean McDonald at the University of Virginia
+
+
 import pygame
 import gamebox
 
