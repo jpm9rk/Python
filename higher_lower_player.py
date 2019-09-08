@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Implementation of a guessing game
 
 print("Think of a number between 1 and 100 and I'll guess it.")
 num_guess = int(input('How many guesses do I get? '))
