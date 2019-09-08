@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Program to assist students in finding information about classes
 
 import urllib.request
 def instructors(department):
