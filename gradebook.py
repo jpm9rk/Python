@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Program to keep track of running total and cumulative weight for each grade type, and return overall grade
 
 
 dict_grades = {}  # should store the type of assignment and its grade * weight
