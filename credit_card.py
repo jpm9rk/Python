@@ -2,6 +2,7 @@
 
 # James Morrissey
 # computingID: jpm9rk
+# Checks if entered credit card number is valid
 
 def check(credit_number):
     """
