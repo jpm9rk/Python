@@ -1,5 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
+# Aggregation functions
 
 
 def mean(a, b, c):
