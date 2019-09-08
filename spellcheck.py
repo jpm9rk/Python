@@ -1,10 +1,6 @@
-
-
-
-
-
  # James Morrissey
  # computingID: jpm9rk
+ # Checks user entered text for misspelled words
 
 import urllib.request
 spelled_word = []
