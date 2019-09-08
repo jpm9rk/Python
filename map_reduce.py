@@ -1,7 +1,6 @@
 # James Morrissey
 # computingID: jpm9rk
-
-# map_function is a function that takes 2 arguments
+# Creation of a map and reduce function
 
 
 def myreduce(my_function, my_list):
